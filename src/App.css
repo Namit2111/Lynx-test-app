@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.Header{
+  top: 2vh;
+  background-color: aqua;
+  height: 6vh;
+}
